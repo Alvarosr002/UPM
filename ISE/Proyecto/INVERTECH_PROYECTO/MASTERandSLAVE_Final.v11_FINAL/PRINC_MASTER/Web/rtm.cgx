@@ -1,0 +1,23 @@
+t <form>
+t <text>
+t <id>temp_value</id>
+c u<value>%5.1f</value>
+t </text>
+t <text>
+t <id>hum_value</id>
+c v<value>%5.1f</value>
+t </text>
+t <text>
+t <id>lum_value</id>
+c w<value>%5.1f</value>
+t </text>
+t <text>
+t <id>AQ_value</id>
+c x<value>%d</value>
+t </text>
+t <text>
+t <id>WL_value</id>
+c y<value>%5.1f</value>
+t </text>
+t </form>
+.

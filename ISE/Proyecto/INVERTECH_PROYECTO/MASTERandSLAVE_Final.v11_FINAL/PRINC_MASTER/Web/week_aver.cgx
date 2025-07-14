@@ -1,0 +1,7 @@
+t <form>
+t <text>
+t <id>average</id>
+c k<value>%s</value>
+t </text>
+t </form>
+.

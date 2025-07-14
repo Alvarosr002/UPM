@@ -1,0 +1,7 @@
+t <form>
+t <text>
+t <id>consum_amps</id>
+c z<value>%5.1f</value>
+t </text>
+t </form>
+.
